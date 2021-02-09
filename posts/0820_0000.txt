@@ -31,9 +31,9 @@ Kendra doesn't push it.
 
 [img]0820_b.png[/img]
 
-"Oh! I didn't mean it that way. You're brilliant too."
+[k]"Oh! I didn't mean it that way. You're brilliant too."[/k]
 
-[k]"[i]Thank[/i] you,"[/k] says Bina.
+"[i]Thank[/i] you," says Bina.
 
 [k]"What are you studying again?"[/k] asks Kendra.
 
