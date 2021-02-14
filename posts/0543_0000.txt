@@ -49,7 +49,7 @@
 
 [k]"Ok! That's dangerous too. I get it. But Bina - [/k]
 
-"Look! Whatever we do, we have to do it [i]now![/i]."
+"Look! Whatever we do, we have to do it [i]now![/i]"
 
 
 >>>DISPLAY_PICTURE:0543_a.png

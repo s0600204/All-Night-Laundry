@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-"Look," says Bina. "I think - we can deal with that, right?. We don't want to stay here Kendra."
+"Look," says Bina. "I think - we can deal with that, right? We don't want to stay here Kendra."
 
 [k]"You're right. The trick Piotyr just pulled - I didn't think she could do that."[/k]
 

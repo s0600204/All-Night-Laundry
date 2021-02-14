@@ -7,7 +7,7 @@
 
 [k]"OK! So, right. How do we fix this?"[/k] asks Kendra. [k]"Will the macro send us back to where we were when we activated the Moment or to where we were when we started our jump?"[/k]
 
-"I'm not sure. It'll send you to the place and time you activated the Moment at first, but the jostle from when the Moment deactivates might fuzz your eigenvector enough to cancel your jump. I'm not sure. That's part of the reason you're [i]not supposed to use the Moment on a jump![/i]. It's going to be about a 60 kilohertz? Maybe a little more? It [i]should[/i] be survivable but I don't know enough about your time machine."
+"I'm not sure. It'll send you to the place and time you activated the Moment at first, but the jostle from when the Moment deactivates might fuzz your eigenvector enough to cancel your jump. I'm not sure. That's part of the reason you're [i]not supposed to use the Moment on a jump![/i] It's going to be about a 60 kilohertz? Maybe a little more? It [i]should[/i] be survivable but I don't know enough about your time machine."
 
 [k]"Our time machine is made out of an old chair, some aluminium wire I pulled out of a wall, and two flash-lights. It is literally held together by electrical tape and bloodymindedness."[/k]
 
