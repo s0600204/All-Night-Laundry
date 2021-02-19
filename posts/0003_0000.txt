@@ -60,7 +60,7 @@ Further back there's a bunch of dryers packed into the corner, and then the more
 
 She's not sure where the light-switch is.
 
-Oh, hey. Bina just noticed that the TV is off. That's good, it was starting too annoy her.
+Oh, hey. Bina just noticed that the TV is off. That's good, it was starting to annoy her.
 
 
 >>>DISPLAY_PICTURE:0003_e.gif
