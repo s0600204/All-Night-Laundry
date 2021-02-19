@@ -15,7 +15,7 @@ She's ooooohkay.
 
 She's got this.
 
-Lets. Lets look around.
+Let's. Let's look around.
 
 [quote=Chizita;7271398] Ok, look at the waste paper bin. Discarded documents may prove useful.[/quote]
 
@@ -27,8 +27,8 @@ Many years of crime fighting television makes Bina check the garbage bin first. 
 
 [img]0071_b.jpg[/img]
 
-They're unlabled, thick, and bound in leather. Judging by their proximity to the safe, she's guessing accounts ledgers. She doesn't think she could get one down with her hurt arm without dropping it.
-	
+They're unlabelled, thick, and bound in leather. Judging by their proximity to the safe, she's guessing accounts ledgers. She doesn't think she could get one down with her hurt arm without dropping it.
+
 [quote=Dregadude;7271018]>Examine the safe.[/quote]
 
 [img]0071_c.jpg[/img]
@@ -72,3 +72,6 @@ Well played my friend. Well played.
 Also, I am not entirely sure, but I -think- crunch is over for at least a week or so. Hurrah for breathing room.
 
 
+>>>EDITOR_COMMENTS:
+
+Various online resources mention that Canada uses a mix of en-GB and en-US spellings, and I don't have an Canada-English dictionary to hand, so... should it be "labelled" (en-GB) or "labeled" (en-US)? I've gone with the en-GB spelling, but feel free to decide otherwise.
