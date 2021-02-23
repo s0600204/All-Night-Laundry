@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[k]"I cannot [i]believe[/i] you're wearing that rediculous shirt,"[/k] whispers Kendra.
+[k]"I cannot [i]believe[/i] you're wearing that ridiculous shirt,"[/k] whispers Kendra.
 
 "I dunno," says Bina.
 

@@ -31,7 +31,7 @@
 
 [k]"If I had to guess, I'd say on the other side of the room?"[/k]
 
-"You mean the one [i]behind the portal?[/i] The inacessible one? [i]That[/i] side of the room?"
+"You mean the one [i]behind the portal?[/i] The inaccessible one? [i]That[/i] side of the room?"
 
 [k]"Yes."[/k]
 

@@ -21,7 +21,7 @@
 
 [e]"Why did it grab someone? Are they eating people? It had three arms. Maybe they're using people to-"[/e]
 
-"No," says Amie. "Think where it. Why build soldiers if they're going to destroy your own food supply?"
+"No," says Amie. "Think about it. Why build soldiers if they're going to destroy your own food supply?"
 
 [e]"Your own food supply?"[/e]
 

@@ -45,7 +45,7 @@ Elizabeth ignores her. [e]"Why do you think we have to leave?"[/e]
 
 [size=8]"Oh god, she's humouring them," says Pink Pants.[/size]
 
-[e]"- even if you're right, and even if he can somehow get passed a SWAT team, he's stuck in the incident area. Beyond that, even if he got out, which he [i]can't[/i] how would he know you were [i]here[/i]? It took me almost half the day [i]and[/i] CCTV footage to find you."[/e]
+[e]"- even if you're right, and even if he can somehow get past a SWAT team, he's stuck in the incident area. Beyond that, even if he got out, which he [i]can't[/i] how would he know you were [i]here[/i]? It took me almost half the day [i]and[/i] CCTV footage to find you."[/e]
 
 
 >>>DISPLAY_PICTURE:1058_a.png
