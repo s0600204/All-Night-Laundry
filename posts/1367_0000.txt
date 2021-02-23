@@ -34,7 +34,7 @@
 
 "You do?" asks Amie, trying not to sound disappointed.
 
-[k]"Have you tried reading Three's notebooks on time travel?"[/k] asks Kendra. [k]"They're nearly impenetrable. Worse then my aerodynamics textbooks. It's hard to even understand what she's saying most of the time. Four is the one who broke them down into practical lessons. It must have taken her months."[/k]
+[k]"Have you tried reading Three's notebooks on time travel?"[/k] asks Kendra. [k]"They're nearly impenetrable. Worse than my aerodynamics textbooks. It's hard to even understand what she's saying most of the time. Four is the one who broke them down into practical lessons. It must have taken her months."[/k]
 
 "It did!" says Amie. "Five and a half months. The last date for her we have so far is M166."
 
@@ -42,7 +42,7 @@
 
 "Moment-Day 166. We needed a way to track the amount of time the Binas had been in the Moment so..."
 
-[k]"So that's what all this is? The journal's?"[/k]
+[k]"So that's what all this is? The journals?"[/k]
 
 "About half of them," says Bina. "We're looking for patterns."
 

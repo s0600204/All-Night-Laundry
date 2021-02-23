@@ -29,7 +29,7 @@ Kendra stalls for time and puts the phone inside her jacket next to the book.
 
 [k]"Did you ever leave anything inside a patient before? Like a watch or a surgical pad or something?"[/k]
 
-"Not personally, but it happens more often then you'd think."
+"Not personally, but it happens more often than you'd think."
 
 [k]"Yeah, well - this thing with the phone and the pizza was us leaving forceps in time's chest cavity. We have to cut, but the alternative is it might go septic."[/k]
 
