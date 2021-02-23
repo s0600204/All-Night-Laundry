@@ -79,7 +79,7 @@ After some time, [k]"You were saying that we should do something?"[/k]
 
 "Yeah, but I'll explain why as we go. Does that work?"
 
-[k]"I guess it'll have too."[/k]
+[k]"I guess it'll have to."[/k]
 
 "Uh, this is all going to sound, you know, pretty nuts."
 
@@ -93,7 +93,7 @@ After some time, [k]"You were saying that we should do something?"[/k]
 
 [img]0229_f.png[/img]
 
-"I guess this all started when my friend Katelyn didn't come into work last night, and I had to stay until closing. That meant that I didn't have time to do my laundry, like I'd planned too, but I was all out of clothes. They always lock the little laundry room in my apartment building at like, 10:00, so I came here, to the laundromat, so I could do my clothes before class tomorrow. That's when I met Gregor for the first time."
+"I guess this all started when my friend Katelyn didn't come into work last night, and I had to stay until closing. That meant that I didn't have time to do my laundry, like I'd planned to, but I was all out of clothes. They always lock the little laundry room in my apartment building at like, 10:00, so I came here, to the laundromat, so I could do my clothes before class tomorrow. That's when I met Gregor for the first time."
 
 [k]"You mean the Russian guy? He didn't grab you?"[/k]
 

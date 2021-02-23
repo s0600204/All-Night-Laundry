@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-Bina hears another low groan of metal, and then a bright tinkley sound of glass breaking. A light-bulb? No, bigger, probably a window. She decides that this is an excellent place not to be in right now.
+Bina hears another low groan of metal, and then the bright tinkly sound of glass breaking. A light-bulb? No, bigger, probably a window. She decides that this is an excellent place not to be in right now.
 
 Beneath her feet, in the mud, sharp pebbles, broken pieces of re-bar, and other, less identifiable hazards lurk unseen. 
 
@@ -23,7 +23,7 @@ It's a good question.
 
 Right now, whatever it is, it's choked with the guts of the laundromat. 
 
-Bina stands on her tip toes to edge past the disemboweled corpse of one of the water heaters.
+Bina stands on her tip toes to edge past the disembowelled corpse of one of the water heaters.
 
 [img]0221_a.png[/img]
 
@@ -33,7 +33,7 @@ Bina stands on her tip toes to edge past the disemboweled corpse of one of the w
 
 "Uh..." Bina decides not to answer that question just now, "Fall coast pair!" 
 
-Bina's not actually sure how far away she is from Kendra. The echoes in the tunnel are mucking with her sense of direction. The fact that its almost impossible to take two steps in a straight line, due to all the trash, isn't helping much either.
+Bina's not actually sure how far away she is from Kendra. The echoes in the tunnel are mucking with her sense of direction. The fact that it's almost impossible to take two steps in a straight line, due to all the trash, isn't helping much either.
 
 
 >>>DISPLAY_PICTURE:0221_a.png
