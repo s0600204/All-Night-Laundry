@@ -3,11 +3,11 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[k]"OK, here's what we're going to do. You're going to come over here any hold this against Elizabeth's head [i]hard[/i] OK? It has to be hard or she'll just keep bleeding and you have to support her neck because her spine might be broken. See? Like this? Come over here."[/k]
+[k]"OK, here's what we're going to do. You're going to come over here and hold this against Elizabeth's head [i]hard[/i] OK? It has to be hard or she'll just keep bleeding and you have to support her neck because her spine might be broken. See? Like this? Come over here."[/k]
 
 "Mmmmmhhhh..."
 
-[k]"Bina..."[/k] says Kendra, putting a fair amount of irritating into her voice. Kendra has noticed that Bina has a tendency to get whiny after things calm down. 
+[k]"Bina..."[/k] says Kendra, putting a fair amount of irritation into her voice. Kendra has noticed that Bina has a tendency to get whiny after things calm down. 
 
 "Fiiine, I'm coming. Is that my grandma's scarf?"
 
