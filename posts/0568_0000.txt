@@ -7,7 +7,7 @@
 
 Not exactly. 
 
-The plans called for a variable strength resister to go into the diagram in parallel with the antenna for 'lateral n-tuning', as opposed to the 'direct n-tuning' which, in this device, is done by the hack-saw blade and the padded wire. She had hoped to be able to strip a thermostat for it's potentiometer, but the garage and the two trucks that occupy it appear to have been unheated. She considered venturing into the nearby buildings, the hack-job with the hand-warmer makes her very nervous, more nervous then anything else in her quick and dirty design, but she didn't. 
+The plans called for a variable strength resistor to go into the diagram in parallel with the antenna for 'lateral n-tuning', as opposed to the 'direct n-tuning' which, in this device, is done by the hack-saw blade and the padded wire. She had hoped to be able to strip a thermostat for its potentiometer, but the garage and the two trucks that occupy it appear to have been unheated. She considered venturing into the nearby buildings, the hack-job with the hand-warmer makes her very nervous, more nervous than anything else in her quick and dirty design, but she didn't. 
 
 She didn't want Bina to come back and find her gone. 
 
@@ -43,7 +43,7 @@ Paradox appears to behave similar to electrons, which Kendra finds a bit hard to
 
 Of course, she has just built what is, theoretically, a functional time machine out of, not to put too fine a point on it, [i]garbage[/i], one hundred year old plumbing tape, and part of an elderly chair, so 'odd' is, in this case, relative.
 
-While entropy is increasing, changing the depth of the wires in the hot-pad, as well as moving the wrapped wire up and down the hack-saw blade should then some control over their destination. This is going to have to be done by ear. She doesn't know the conductivity of either of her two resistors, but the shard will apparently react to the tuning. She's not sure what that will look like, has looked through the entire journal twice hoping for a description, but there is nothing.
+While entropy is increasing, changing the depth of the wires in the hot-pad, as well as moving the wrapped wire up and down the hack-saw blade should give some control over their destination. This is going to have to be done by ear. She doesn't know the conductivity of either of her two resistors, but the shard will apparently react to the tuning. She's not sure what that will look like, has looked through the entire journal twice hoping for a description, but there is nothing.
 
 They'll just have to wing it. 
 

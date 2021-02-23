@@ -57,7 +57,7 @@
 
 "We don't -
 
-[k]"You [i]need[/i] a doctor! [i]I[/i] need a doctor and I'm in [i]way[/i] better condition then you are."[/k]
+[k]"You [i]need[/i] a doctor! [i]I[/i] need a doctor and I'm in [i]way[/i] better condition than you are."[/k]
 
 Bina ignores this, "We don't have [i]time[/i] for that!"
 
