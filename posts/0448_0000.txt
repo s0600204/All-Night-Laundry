@@ -19,7 +19,7 @@ She decides to hide the book. She may not have understood it, but she'll be dang
 
 The gondola remains stationary. The rain spatters down. Thunder rumbles again. 
 
-[e]"Heylo? I'm going to swing the boom now? It makes the gondola rock back and forth a bit so hold on! OK? I think the only thing worse then what is currently happening would be if I had to also explain that, in addition to everything else, I accidentally dropped one of the intruders a hundred feet to their painful and messy death. So I'm looking for an 'OK, we are holding on!' here."[/e]
+[e]"Hello? I'm going to swing the boom now? It makes the gondola rock back and forth a bit so hold on! OK? I think the only thing worse than what is currently happening would be if I had to also explain that, in addition to everything else, I accidentally dropped one of the intruders a hundred feet to their painful and messy death. So I'm looking for an 'OK, we are holding on!' here."[/e]
 
 
 >>>DISPLAY_PICTURE:0448_a.gif

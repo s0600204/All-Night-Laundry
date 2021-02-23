@@ -35,7 +35,7 @@ He'd been really weird. He seemed to know, somehow, where she'd been, and he act
 
 "Yeah." 
 
-[k]"Then no. That guy weighs like ten times as much as you do. I mean, it would have been better if you [i]actually[/i] got away rather then getting captured again, but no. I'm not mad at you."[/k]
+[k]"Then no. That guy weighs like ten times as much as you do. I mean, it would have been better if you [i]actually[/i] got away rather than getting captured again, but no. I'm not mad at you."[/k]
 
 Then Bina explains how he'd chased her down the alley and through the construction site. 
 
@@ -97,7 +97,7 @@ Then Bina explains how he'd chased her down the alley and through the constructi
 
 "Oh, I'm sorry."
 
-[k]"It was a long time ago, but yeah, it sucks. Don't know why I d - why I might have - why I dreamed about it now. It was really vivid too, and [i]strange[/i]. Most of my dreams are just like 'I'm ticketing someone and then they yell at me for ten hours!' but this one... I realized I was dreaming about half way though? That never happens to me."[/k]
+[k]"It was a long time ago, but yeah, it sucks. Don't know why I d - why I might have - why I dreamed about it now. It was really vivid too, and [i]strange[/i]. Most of my dreams are just like 'I'm ticketing someone and then they yell at me for ten hours!' but this one... I realized I was dreaming about halfway though? That never happens to me."[/k]
 
 
 >>>DISPLAY_PICTURE:0363_b.png

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[k]"This place is bigger then I thought it would be."[/k]
+[k]"This place is bigger than I thought it would be."[/k]
 
 "T-they must have been down here f-for a while, to set-up the sandbags, and the pump like this."
 

@@ -21,7 +21,7 @@
 
 [k]"You [i]carried[/i] me?"[/k]
 
-"You sorta stumbled for a bit of it, but yeah. I guess, it was more sorta [i]dragged[/i] then carried."
+"You sorta stumbled for a bit of it, but yeah. I guess, it was more sorta [i]dragged[/i] than carried."
 
 [k]"Eehh... I don't remember any of that."[/k]
 

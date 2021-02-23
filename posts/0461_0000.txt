@@ -25,7 +25,7 @@
 
 "Those!"
 
-[k]"Bina, more then half the lights are out, I can't see what you're pointing at."[/k]
+[k]"Bina, more than half the lights are out, I can't see what you're pointing at."[/k]
 
 "Here, gimme the flashlight, I'll show you."
 
