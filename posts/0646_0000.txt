@@ -30,7 +30,7 @@ The shard starts making the sound of a particularly geriatric buzz-saw.
 
 [img]0646_b.png[/img]
 
-"[i]Anywhere[/i] is better then [i]here[/i]!"
+"[i]Anywhere[/i] is better than [i]here[/i]!"
 
 
 >>>DISPLAY_PICTURE:0646_a.png
