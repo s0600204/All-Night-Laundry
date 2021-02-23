@@ -9,9 +9,9 @@
 
 [k]"No, I don't want you to do jumping jacks. It should be me - but, we don't exactly have a choice here."[/k]
 
-"Err… why not?"
+"Err... why not?"
 
-[k]"In case you've forgotten, you're the only one who can power a time machine. I lack the necessary ‘woo woo'."[/k]
+[k]"In case you've forgotten, you're the only one who can power a time machine. I lack the necessary 'woo woo'."[/k]
 
 "Oh!" says Bina, feeling a bit like an idiot. "Right."
 
@@ -35,11 +35,11 @@
 
 [k]"Wait, thinking of flashlights. Doesn't the green light from your hand damage time whenever it's visible?"[/k]
 
-"Err… yeah?"
+"Err... yeah?"
 
 [k]"So whenever you emit any of it, that'd show up on those paradox feedback lights, right?"[/k]
 
-"Well… yeah. I guess. Yeah."
+"Well... yeah. I guess. Yeah."
 
 [k]"In that case, can't you just signal with a regular old flashlight or, you know, your [i]hand[/i]?"[/k]
 

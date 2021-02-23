@@ -15,13 +15,13 @@
 
 "It's is really good!"
 
-[k]"Right uh… look, is - did you figure out your thing?"[/k]
+[k]"Right uh... look, is - did you figure out your thing?"[/k]
 
 Bina swallows a chunk of sandwich.
 
 "Not really," she sighs and wipes her mouth. "I just - I keep going in circles."
 
-[k]"It's not uh… it's not [i]me[/i] is it?"[/k]
+[k]"It's not uh... it's not [i]me[/i] is it?"[/k]
 
 [img]0764_b.png[/img]
 

@@ -21,7 +21,7 @@
 
 [k]"No, smells like... I dunno, turpentine maybe? Something chemical."[/k]
 
-"Can't be worse then the rest of the room."
+"Can't be worse than the rest of the room."
 
 [k]"No kidding."[/k][/size]
 

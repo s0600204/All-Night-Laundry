@@ -15,7 +15,7 @@
 
 "Still ticking, but it's stuck at 10:23 am."
 
-[k]"Well that's less then useful."[/k]
+[k]"Well that's less than useful."[/k]
 
 "Yeah, sorry. It was a good idea though."
 

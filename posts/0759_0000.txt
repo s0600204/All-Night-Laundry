@@ -11,7 +11,7 @@ Bina stops.
 
 [k]"Bina, what is it?"[/k]
 
-"It's…"
+"It's..."
 
 [quote=DS]> admit that you have no idea what Kendra's doing. 
 > Yes, you know you made it. That doesn't help[/quote]
@@ -26,9 +26,9 @@ No. It's not all that.
 
 OK, maybe [i]some[/i] of it is all those things, yeah, in part. But those aren't the real reasons she hasn't been reading the journals or why she's been avoiding the Viewers and other devices the other Bina's made. 
 
-They might have been what stopped her [i]yesterday[/i], but after what happened last night…
+They might have been what stopped her [i]yesterday[/i], but after what happened last night...
 
-"I just… I need some time, ok?"
+"I just... I need some time, ok?"
 
 [k]"Bina we don't-[/k]
 
