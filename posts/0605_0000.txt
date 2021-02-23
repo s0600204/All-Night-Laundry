@@ -39,7 +39,7 @@ I decide to change the topic.
 
 "But B3 did, you said she was a physicist?"
 
-"Yes, but she was... older then you are. Several years I think. She and I, we did not have a comfortable conversation. She wanted answers and was not interested in anything other then getting them as quickly as possible."
+"Yes, but she was... older than you are. Several years I think. She and I, we did not have a comfortable conversation. She wanted answers and was not interested in anything other than getting them as quickly as possible."
 
 "That - I mean - I'm sorry."
 
@@ -86,7 +86,7 @@ I'm not sure how to take that. I decide to change the subject again.
 
 "But I was wrong," she says.
 
-"Less then an hour later, as I was placing one of the capacitors from the main housing on the worktable, [i]bang[/i]! It exploded!"
+"Less than an hour later, as I was placing one of the capacitors from the main housing on the worktable, [i]bang[/i]! It exploded!"
 
 "It was the size of a dime, so no damage done, but I noticed that it had rolled against that same pile of plates again."
 

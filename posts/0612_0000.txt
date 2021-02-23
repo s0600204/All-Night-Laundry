@@ -7,7 +7,7 @@
 
 "Wait, what?"
 
-[color=#94846F]"Well, it took a lot more testing to confirm, but basically, anything with the image from the tile on it would spontaneously generate electrons if viewed through a pair of slits smaller then the amplitude of the wavelength of light you were using to view it."[/color]
+[color=#94846F]"Well, it took a lot more testing to confirm, but basically, anything with the image from the tile on it would spontaneously generate electrons if viewed through a pair of slits smaller than the amplitude of the wavelength of light you were using to view it."[/color]
 
 "What?"
 
