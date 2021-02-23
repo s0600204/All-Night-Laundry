@@ -7,11 +7,11 @@
 
 [img]1329_a.png[/img]
 
-"Amie? You OK?"
+"Amie? You OK?"[/k]
 
 Amie doesn't appear to hear her.
 
-"Amie?"[/k]
+[k]"Amie?"[/k]
 
 "Huh?"
 

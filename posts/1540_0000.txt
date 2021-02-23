@@ -21,7 +21,7 @@ They do the paying for money dance. Kendra gives her another $100 because she ha
 
 [k]"No, I need you to take it to Western General. In the emergency waiting room, there'll be a girl wearing a purple shirt, shorts, and a labcoat. I need you to give her the pizza and this note. She'll probably ask where the pizza came from - don't answer her, just leave."[/k]
 
-"All right..." says the Pizza Girl. "Whatever you say. You know, there's this thing these days called [i]cellphones.[/i] They're more efficient form of communication then pi - Hey, are you OK?"
+"All right..." says the Pizza Girl. "Whatever you say. You know, there's this thing these days called [i]cellphones.[/i] They're more efficient form of communication than pi - Hey, are you OK?"
 
 [quote="Anonymous Person"]I could have sworn the pizza delivery person was a guy. Paradox?[/quote]
 

@@ -11,7 +11,7 @@
 
 "Wait, you're [i]done?[/i]" says Amie.
 
-[k]"I built a time machine out of [i]garbage[/i]. You think a [i]tarp[/i] is going to stop me?"[/k] says Kendra. [k]"I even have duck tape this time! Now get behind the goddam box!"[/k]
+[k]"I built a time machine out of [i]garbage[/i]. You think a [i]tarp[/i] is going to stop me?"[/k] says Kendra. [k]"I even have duck tape this time! Now get behind the goddamn box!"[/k]
 
 
 >>>DISPLAY_PICTURE:1294_a.png

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-"Hah!" says Amie, more of a gasp then a laugh.
+"Hah!" says Amie, more of a gasp than a laugh.
 
 [img]1344_a.png[/img]
 

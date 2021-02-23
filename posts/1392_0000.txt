@@ -15,7 +15,7 @@ It reads:
 
 B1 - No information
 B2 - No information
-B3 - Created the moment. Looked forward. Fucked everything up p'bad.
+B3 - Created the moment. Looked forward. Fucked everything up bad.
 B4 - Not much information. Appears to have been trying to map all time travel events that take place during the 17th of July. 
 B5 - Empty Loop? (B3's fault?)
 B6 - Created a 'temporal slingshot' and tried to escape the Entropic Well by brute force.

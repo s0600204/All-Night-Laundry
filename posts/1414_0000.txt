@@ -21,7 +21,7 @@ Bina breathes in, hold it, and then breaths out, "Aaaargh, I fucked that up, did
 
 [k]"Hey, it's not always [i]my[/i] job to make sure that everyone is OK."[/k]
 
-"That is... a fair point. Sorry. God, we really [i]don't[/i] have time for this."
+"That is... a fair point. Sorry. Gods, we really [i]don't[/i] have time for this."
 
 
 >>>DISPLAY_PICTURE:1414_a.png
