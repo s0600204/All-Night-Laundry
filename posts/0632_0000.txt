@@ -15,7 +15,7 @@ It's gotta be in the low double digits by now. Eurgh.
 
 [k]"Come on, up you get. We should get away from the door."[/k]
 
-"Can I just sit for a minute? The mud's kinda warmer then the air in here."
+"Can I just sit for a minute? The mud's kinda warmer than the air in here."
 
 [img]0632_a.png[/img]
 
