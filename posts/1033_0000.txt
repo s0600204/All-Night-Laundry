@@ -19,7 +19,7 @@ Bina grunts at that.
 
 "Your sister, did she, uh, blink?"
 
-[k]"Melissa might put on a show of being a hard-case, but she didn't become a nurse just because she likes to wear teal. It took some arguing, she wanted to know why we couldn't just take you to Emergency and get you checked out by real doctors, but she came around quicker then I thought. You being so sick made a compelling argument."[/k]
+[k]"Melissa might put on a show of being a hard-case, but she didn't become a nurse just because she likes to wear teal. It took some arguing, she wanted to know why we couldn't just take you to Emergency and get you checked out by real doctors, but she came around quicker than I thought. You being so sick made a compelling argument."[/k]
 
 [quote=Ged]>Maybe the anesthesia just leaked out through cracks in space-time, who knows?[/quote]
 
