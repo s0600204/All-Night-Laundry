@@ -25,7 +25,7 @@
 
 [k]"Which was... what? You crippled the Viewers by overbuilding them until it was dangerous to even try to take them apart, and then limited them to one loop in either direction? That seems incredibly elaborate."[/k]
 
-"I did more then that. I pulled out the Moment's targeting systems. I made it impossible to exit the Moment safely without using the Viewers to build an exit trajectory."
+"I did more than that. I pulled out the Moment's targeting systems. I made it impossible to exit the Moment safely without using the Viewers to build an exit trajectory."
 
 [k]"Yeesh,"[/k] says Kendra. [k]"What were you even trying to do?"[/k]
 
