@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote='auronblidook']Three?[/quote]
+[quote="auronblidook"]Three?[/quote]
 
 "Wait - you mean twice right? You mean twice! Where are you going?"
 

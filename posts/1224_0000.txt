@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote='BreadProduct']>Tell the truth.[/quote]
+[quote="BreadProduct"]>Tell the truth.[/quote]
 
 "I don't have it!" says Bina.
 
