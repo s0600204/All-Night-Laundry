@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=btp]Meanwhile...[/quote]
+[quote="btp"]Meanwhile...[/quote]
 
 "You hear that?" asks Bina.
 

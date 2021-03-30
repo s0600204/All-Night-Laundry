@@ -11,7 +11,7 @@
 
 "Well," says Bina, watching the naughts around the corner of the generator. "The choice is looking to be between 'he gets all of us' or 'he gets me', which is it?"
 
-[quote=ForestGardener]I have devised a plan!
+[quote="ForestGardener"]I have devised a plan!
 
 >Step 1: Use the Moment.
 Step 2: Return here a few minutes ago. If this requires another time machine and a second use of the Moment, so be it.
@@ -34,7 +34,7 @@ Bina should have the Moment when executing this plan, in case the room is unsafe
 
 "My offer of lenience," says Gregor, in the lime tinted darkness. "It is not lasting forever."
 
-[quote=Xam]Evil Suggestion: Send out Emmie instead. I like him, but he's a red shirt and therefore expendable compared to our two main characters. He should be able to keep Gregor distracted with his ability to speak English long enough for Bina and Kendra to shut the generators down.[/quote]
+[quote="Xam"]Evil Suggestion: Send out Emmie instead. I like him, but he's a red shirt and therefore expendable compared to our two main characters. He should be able to keep Gregor distracted with his ability to speak English long enough for Bina and Kendra to shut the generators down.[/quote]
 
 "Let me go," says Emmie. "Let me be the one to talk to him."
 
@@ -47,7 +47,7 @@ Bina should have the Moment when executing this plan, in case the room is unsafe
  
 "If I go, I can play it off as though I'm just someone who wandered in - like I have no idea what's going on - which, by the way, is pretty close to the truth." 
 
-[quote=xooxu]I'm still up for talking from the shadows. Maybe it's a bad idea because he can find you that way, but distracting him while some shuts down the generators might be our only shot.[/quote]
+[quote="xooxu"]I'm still up for talking from the shadows. Maybe it's a bad idea because he can find you that way, but distracting him while some shuts down the generators might be our only shot.[/quote]
 
 Emmie tries to smile, it goes about as well as you'd expect under the circumstances. "Maybe I can distract him and you can get the jump on him, or I can buy time for you to - "
 
@@ -57,7 +57,7 @@ Emmie tries to smile, it goes about as well as you'd expect under the circumstan
 
 [k]"No. God! This is crazy,"[/k] says Kendra. [k]"Bina tell him he's crazy," [/k]
 
-[quote=sahArab]It's been such a long time since you walked into that laundromat and tried to do some laundry. You've been through so much and learned so much but you don't know why. Aren't you tired of theorizing on Botfly's and unlights and Naughts and why any of this is happening? On trying to piece together bizarre rules and guidelines? Are you going to keep staggering from one situation out of your control to the next, doing just enough to keep your head above water until you no longer can? The Botfly and Gregor have been moving you around for too long. It's time to become a player in this game.
+[quote="sahArab"]It's been such a long time since you walked into that laundromat and tried to do some laundry. You've been through so much and learned so much but you don't know why. Aren't you tired of theorizing on Botfly's and unlights and Naughts and why any of this is happening? On trying to piece together bizarre rules and guidelines? Are you going to keep staggering from one situation out of your control to the next, doing just enough to keep your head above water until you no longer can? The Botfly and Gregor have been moving you around for too long. It's time to become a player in this game.
 
 > Bina: Talk to Gregor.[/quote]
 

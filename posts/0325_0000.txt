@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Anthano]> Find shelter beneath a friendly old bus stop[/quote]
+[quote="Anthano"]> Find shelter beneath a friendly old bus stop[/quote]
 
 "We can do it at the bus stop!"
 

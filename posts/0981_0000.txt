@@ -31,7 +31,7 @@
 
 [e]"Hey!"[/e]
 
-[quote=DS]> Um , wait, Bina? Hospital? You want some answers, now. Like, what the hell happened to your roommate?[/quote]
+[quote="DS"]> Um , wait, Bina? Hospital? You want some answers, now. Like, what the hell happened to your roommate?[/quote]
 
 "You mentioned Bina, is she your friend? Is she uhh.. here?"
 

@@ -35,7 +35,7 @@ Kendra kneels down and puts a hand on her Bina's shoulder to stop her from sayin
 
 "I know it's the size of a watch! But it's only the size of a watch from the [i]outside[/i]."
 
-[quote=DS]> Well, where do we go to learn those things? Presuming we can't stay in touch with you.[/quote]
+[quote="DS"]> Well, where do we go to learn those things? Presuming we can't stay in touch with you.[/quote]
 
 [k]"OK, and, once we've done that. How do we program it?"[/k]
 

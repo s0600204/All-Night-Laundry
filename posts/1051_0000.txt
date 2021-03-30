@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=a52]>Instructions? From whom? Who knows about this?![/quote]
+[quote="a52"]>Instructions? From whom? Who knows about this?![/quote]
 "Instructions? Who from?"
 
 [e]"My boss," says Elizabeth. "Look -" [/e]

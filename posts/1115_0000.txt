@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct]
+[quote="BreadProduct"]
 There might be a way to save her. Piss off the things, make them chase you instead. Just have a exit plan first.
 [/quote]
 
@@ -21,9 +21,9 @@ Officer Edwards takes the flashlight, and then after a moments hesitation, picks
 
 Amie stands up, thinks to herself 'All right Amie, now, this should be easy, all I need to figure out is, in this situation, [i]what would the Doctor do?'[/i] In the back of her head, she can feel something go 'click'. 
 
-[quote=tegerioreo]Distract naughts with an impromptu vaudeville routine.[/quote]
+[quote="tegerioreo"]Distract naughts with an impromptu vaudeville routine.[/quote]
 
-[quote=a52]^this[/quote]
+[quote="a52"]^this[/quote]
 
 "Hello, hello, everyone!" yells Amie, her voice shocking and loud in the cramped and quiet dimness.
 
@@ -35,7 +35,7 @@ Amie stands up, thinks to herself 'All right Amie, now, this should be easy, all
 >>>DISPLAY_PICTURE:1115_a.png
 >>>NOTES:
 
-[quote=Xindaris]After all this time, it's nice to see Laundry making another appearance. It is in the title, after all! And hey, to some extent, hospital laundry is open all night, right?[/quote]
+[quote="Xindaris"]After all this time, it's nice to see Laundry making another appearance. It is in the title, after all! And hey, to some extent, hospital laundry is open all night, right?[/quote]
 
 I agree. The fact that I have managed to work actual laundry back into this has made me very happy.
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=DS]> Kendra: Unless you are going some where with this, no.[/quote]
+[quote="DS"]> Kendra: Unless you are going some where with this, no.[/quote]
 
 [k]"They're just trees Bina."[/k]
 

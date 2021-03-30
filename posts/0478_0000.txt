@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Belka's]Search for a Crowbar in the ruins of this area, every person in a destroyed city requires a crowbar.[/quote]
+[quote="Belka's"]Search for a Crowbar in the ruins of this area, every person in a destroyed city requires a crowbar.[/quote]
 
 Kendra wishes she had a crowbar. It probably wouldn't do much good as a weapon, but it might be handy moving rubble.
 

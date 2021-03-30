@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=ForestGardener]>Follow those handprints![/quote]
+[quote="ForestGardener"]>Follow those handprints![/quote]
 
 "Let's follow those handprints!"
 

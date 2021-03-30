@@ -25,7 +25,7 @@ Bina will understand. Totally. She's pretty understanding as far as roommates go
 
 That's [i]probably[/i] not it - 
 
-[quote=DS]> BEGIN STEALTH MISSION[/quote]
+[quote="DS"]> BEGIN STEALTH MISSION[/quote]
 
 - but Amie decides to play it quiet anyway.
 
@@ -37,7 +37,7 @@ That's [i]probably[/i] not it -
 >>>DISPLAY_PICTURE:0977_c.png
 >>>NOTES:
 
-[quote=Dave]For the 1000th day, every adventure author who reads ANL should recreate that update (or a panel from that update) HSHS style. It might be neat to see the same scene recreated in like a dozen different art styles.
+[quote="Dave"]For the 1000th day, every adventure author who reads ANL should recreate that update (or a panel from that update) HSHS style. It might be neat to see the same scene recreated in like a dozen different art styles.
 
 (hopefully I don't have to recreate Amie's hair in LEGO, I'm pretty sure it doesn't exist :woeful:)[/quote]
 

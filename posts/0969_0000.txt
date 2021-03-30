@@ -35,7 +35,7 @@ A desperate whine interrupts her train of thought. She realizes she's been stand
 >>>DISPLAY_PICTURE:0969_a.png
 >>>NOTES:
 
-[quote=Dave]I'm going to give you the same advice I gave my writing partner after the third or fourth time he accidentally deleted an entire update after hours of writing. Do not, under any circumstance, write out the entire update using only your browser. Notepad, Wordpad, Word, Google Docs, anything that can save is superior because you [i]will[/i] delete stuff by accident and then you're gonna have a bad time. :woeful:[/quote]
+[quote="Dave"]I'm going to give you the same advice I gave my writing partner after the third or fourth time he accidentally deleted an entire update after hours of writing. Do not, under any circumstance, write out the entire update using only your browser. Notepad, Wordpad, Word, Google Docs, anything that can save is superior because you [i]will[/i] delete stuff by accident and then you're gonna have a bad time. :woeful:[/quote]
 
 I've used a variety of things over the years, but nowadays I use notepad++. 
 

@@ -37,7 +37,7 @@ Kendra peeks under the door frame, [k]"Yes, it's on."[/k]
 
 Bina takes a quick look around the office. 
 
-[quote=Anthano]> Look around you. You been in here before?[/quote]
+[quote="Anthano"]> Look around you. You been in here before?[/quote]
 
 [img]0269_b.png[/img]
 

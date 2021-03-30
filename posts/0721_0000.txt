@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=DS]This is the last straw.[/quote]
+[quote="DS"]This is the last straw.[/quote]
 
 "Oh for fucks sa-[size=10]mrrpph!"[/size]
 

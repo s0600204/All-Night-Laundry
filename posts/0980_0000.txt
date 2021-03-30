@@ -53,7 +53,7 @@ She turns to Amie.
 >>>DISPLAY_PICTURE:0980_a.png
 >>>NOTES:
 
-[quote=Dave]"Hey! What are you doing in my apartment!"
+[quote="Dave"]"Hey! What are you doing in my apartment!"
 
 "GIANT BUG FROM SPACE!"
 

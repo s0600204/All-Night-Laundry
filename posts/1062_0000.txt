@@ -17,7 +17,7 @@ As they approach the staff lounge they pass several hurrying staff, mostly nurse
 
 Before Kendra can answer they push through into the relative brightness of the staff lounge. 
 
-[quote=Wessolf27]>Melissa or Emmie: Be in the staff lounge, ask why Bina and Kendra are accompanied by a cadre of people.[/quote]
+[quote="Wessolf27"]>Melissa or Emmie: Be in the staff lounge, ask why Bina and Kendra are accompanied by a cadre of people.[/quote]
 
 "Kendra! I was about to come find you! I see you found your friend... and others."
 
@@ -53,7 +53,7 @@ Before Kendra can answer they push through into the relative brightness of the s
 >>>DISPLAY_PICTURE:1062_a.png
 >>>NOTES:
 
-[quote=btp]Is everyone still speaking French?[/quote]
+[quote="btp"]Is everyone still speaking French?[/quote]
 
 Yes. I will generally specify if people are speaking English. By default, assume everyone is speaking French.
 

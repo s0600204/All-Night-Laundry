@@ -7,7 +7,7 @@
 
 "[i]Away![/i]"
 
-[quote=Wolftamer9]Team B13 needs a plan.[/quote]
+[quote="Wolftamer9"]Team B13 needs a plan.[/quote]
 
 [k]"Bina, we've been running for [i]days[/i]. I agree we need to get out of here but we don't have a plan!"[/k]
 
@@ -19,7 +19,7 @@
 
 [k]"As strategies go, that one hasn't been working out particularly [i]well[/i] for us Bina."[/k]
 
-[quote=smurfton]Yeah, Bina's right. If we have anything to do with this, we are making a lot of people suffer by sticking around.[/quote]
+[quote="smurfton"]Yeah, Bina's right. If we have anything to do with this, we are making a lot of people suffer by sticking around.[/quote]
 
 "We're [i]hurting[/i] people Kendra!"
 

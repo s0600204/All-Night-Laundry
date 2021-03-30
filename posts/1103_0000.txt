@@ -3,8 +3,8 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Juddy555]>Go toward the obvious doom and destruction.[/quote]
-[quote=Solekii]Sneak up on them VERY QUIETLY to see what they're up to[/quote]
+[quote="Juddy555"]>Go toward the obvious doom and destruction.[/quote]
+[quote="Solekii"]Sneak up on them VERY QUIETLY to see what they're up to[/quote]
 
 "OK, we're going to go slow and quiet," whispers Amie. "We're not going to spook them and, and this is very important and I need you all to listen, we are not going to [i]shoot[/i] them. OK? Because we might hit the people they've grabbed [i]and[/i] because they don't really seem impressed with bullets."
 
@@ -28,7 +28,7 @@ Amie reaches out to the door to push it open -
 
 "What?" asks Amie, annoyed.
 
-[quote=Xam]They're waiting for us......it's a trap![/quote]
+[quote="Xam"]They're waiting for us......it's a trap![/quote]
 
 "What do we do if they spot us?"
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=someone]You should poke it.[/quote]
+[quote="someone"]You should poke it.[/quote]
 
 [img]0753_a.png[/img]
 

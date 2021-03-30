@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Zephyr]> Imagine the feeling of hugging someone you love. That usually calms me down.[/quote]
+[quote="Zephyr"]> Imagine the feeling of hugging someone you love. That usually calms me down.[/quote]
 
 [quote="Kyky25"]>Sing to yourself.
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dave Rapp]I wonder if those several problems have several additional body parts?[/quote]
+[quote="Dave Rapp"]I wonder if those several problems have several additional body parts?[/quote]
 
 "Do these problems have lots of extra limbs?"
 
@@ -15,7 +15,7 @@
 
 [img]1125_a.png[/img]
 
-[quote=Unclever title]>Bina: Get in there.[/quote]
+[quote="Unclever title"]>Bina: Get in there.[/quote]
 
 Bina gets in there.
 

@@ -45,7 +45,7 @@ Kendra rolls her eyes.
 
 [e]"Oh... well that's good!"[/e]
 
-[quote=Dave]"Have you ever heard of Astro Sugar?"[/quote]
+[quote="Dave"]"Have you ever heard of Astro Sugar?"[/quote]
 
 [k]"Or... well we're still pretty screwed, but not in that particular way. My turn. Have you heard of Astro Sugar?"[/k]
 

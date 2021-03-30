@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tegerioreo]Maybe it's trying to get The Master to show up[/quote]
+[quote="tegerioreo"]Maybe it's trying to get The Master to show up[/quote]
 
 [k]"Maybe it's trying to get the Master to show up and zap us."[/k]
 
@@ -51,7 +51,7 @@ They walk for a few moments.
 
 "It's just - well, I mean - I have not seen the show, but you two are acting on the assumption that Amie is the uh... the 'Doctor Avatar' in this scenario?"
 
-[quote=smurfton]But the Doctor here is definitely Amie.[/quote]
+[quote="smurfton"]But the Doctor here is definitely Amie.[/quote]
 
 [k]"I mean - it's her wish."[/k]
 

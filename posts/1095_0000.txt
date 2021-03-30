@@ -3,8 +3,8 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Juddy555]Some would say to Never Split The Party[/quote]
-[quote=Kree]But Kendra... never split the party![/quote]
+[quote="Juddy555"]Some would say to Never Split The Party[/quote]
+[quote="Kree"]But Kendra... never split the party![/quote]
 
 "Woah, hey," says Castillo. "Are you trying to get yourself killed?"
 
@@ -12,7 +12,7 @@
 
 "That is insane," says Edwards.
 
-[quote=tegerioreo]Wait, wait, wait ... in the stories which Amie is suddenly living, is going off by yourself EVER a good idea?
+[quote="tegerioreo"]Wait, wait, wait ... in the stories which Amie is suddenly living, is going off by yourself EVER a good idea?
 
 No, it isn't.
 

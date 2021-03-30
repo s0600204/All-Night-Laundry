@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=DS]> Everything: Click.
+[quote="DS"]> Everything: Click.
 
 Past loops are locked in place, but the past loops can interact with the future loops
 

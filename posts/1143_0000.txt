@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=sahArab]It's been such a long time since you walked into that laundromat and tried to do some laundry. You've been through so much and learned so much but you don't know why. Aren't you tired of theorizing on Botfly's and unlights and Naughts and why any of this is happening? On trying to piece together bizarre rules and guidelines? Are you going to keep staggering from one situation out of your control to the next, doing just enough to keep your head above water until you no longer can? The Botfly and Gregor have been moving you around for too long. It's time to become a player in this game.
+[quote="sahArab"]It's been such a long time since you walked into that laundromat and tried to do some laundry. You've been through so much and learned so much but you don't know why. Aren't you tired of theorizing on Botfly's and unlights and Naughts and why any of this is happening? On trying to piece together bizarre rules and guidelines? Are you going to keep staggering from one situation out of your control to the next, doing just enough to keep your head above water until you no longer can? The Botfly and Gregor have been moving you around for too long. It's time to become a player in this game.
 
 > Bina: Talk to Gregor.[/quote]
 
@@ -19,7 +19,7 @@
 >>>DISPLAY_PICTURE:1143_a.png
 >>>NOTES:
 
-[quote=ForestGardener] So. We finally approach the end of this story.[/quote]
+[quote="ForestGardener"] So. We finally approach the end of this story.[/quote]
 
 We're not quite there yet, but we're actually getting... there-[i]ish[/i], which is making me anxious and terrified.
 

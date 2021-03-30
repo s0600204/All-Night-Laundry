@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Xam]Run towards the dangerous monsters![/quote]
+[quote="Xam"]Run towards the dangerous monsters![/quote]
 
 [size=8]"Come on!"[/size] whispers Amie.
 
@@ -21,7 +21,7 @@
 
 [size=8]"We should really be calling for backup,"[/size] says Edwards. 
 
-[quote=ForestGardener]>Stand still for a moment. Which way are the Naughts moving?[/quote]
+[quote="ForestGardener"]>Stand still for a moment. Which way are the Naughts moving?[/quote]
 
 [size=8][e]"They're not moving."[/e][/size]
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dave]Is your arm supposed to be runny?[/quote]
+[quote="Dave"]Is your arm supposed to be runny?[/quote]
 
 No... but I don't know how to make it stop.
 
@@ -33,7 +33,7 @@ I feel sick.
 >>>DISPLAY_PICTURE:0999_b.png
 >>>NOTES:
 
-[quote=Dave]As a GIMP user of about a decade, I have no use for Photoshop. Regardless, here's (some of) the (large) cast of Breakin doing laundry.
+[quote="Dave"]As a GIMP user of about a decade, I have no use for Photoshop. Regardless, here's (some of) the (large) cast of Breakin doing laundry.
 
 [img]fanart/dave_2016_02_12.png[/img]
 

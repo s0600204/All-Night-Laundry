@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=2LittleGamers]>Do the help-y thing.[/quote]
+[quote="2LittleGamers"]>Do the help-y thing.[/quote]
 
 That turns out to be a little tricky.
 

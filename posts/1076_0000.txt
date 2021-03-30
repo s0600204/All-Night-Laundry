@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kree]And without a Doctor (or a suitable stand in) to swoop in at the nick of time, things are going to go sour quicker than "Turn Left" did.[/quote]
+[quote="Kree"]And without a Doctor (or a suitable stand in) to swoop in at the nick of time, things are going to go sour quicker than "Turn Left" did.[/quote]
 
 "We are in trouble," says Amie.
 
@@ -11,7 +11,7 @@
 
 It had been a panicked scream, a scream of terror.
 
-[quote=Kree]I hope your legs are healed up Bina, because there's probably going to be an awful lot of running to do.[/quote]
+[quote="Kree"]I hope your legs are healed up Bina, because there's probably going to be an awful lot of running to do.[/quote]
 
 "Dangit! I told you!" says Bina. "Now I'm going to end up having to [i]run[/i] again."
 

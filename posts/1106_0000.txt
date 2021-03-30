@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=ForestGardener]Isn't this hospital outside the entropic well?[/quote]
+[quote="ForestGardener"]Isn't this hospital outside the entropic well?[/quote]
 
 [k]"Wait, that doesn't make sense,"[/k] says Kendra. [k]"We're outside the Well."[/k]
 
@@ -15,7 +15,7 @@
 
 [k]"We'd still be [i]right[/i] on the [i]edge[/i] though -"[/k]
 
-[quote=Dalm]Why is it here though. Did it follow you? Or did using the Moment here bring it somehow?[/quote]
+[quote="Dalm"]Why is it here though. Did it follow you? Or did using the Moment here bring it somehow?[/quote]
 
 "You [i]were[/i] able to use the Moment, right?" asks Bina. "Every time we do [i]anything[/i] with the unlight we deepen the cracks and make things worse."
 
@@ -25,7 +25,7 @@
 
 "Shhh," says Bina, turning off her flashlight. "Somehow, I don't think [i]that[/i] is going to be a problem."
 
-[quote=sahArab]Crack or no, you should have been able to walk the length of a hospital by now.
+[quote="sahArab"]Crack or no, you should have been able to walk the length of a hospital by now.
 > Reach the generators! (And maybe Melissa.)[/quote]
 
 [img]1106_a.png[/img]
@@ -36,8 +36,8 @@ Through the door comes the sound of running generators.
 >>>DISPLAY_PICTURE:1106_a.png
 >>>NOTES:
 
-[quote=ForestGardener]Google maps says there is a hospital at the corner of Atwater and Maisonneuve. Is that where we are?[/quote]
-[quote=ForestGardener]On second look, the thing at Atwater and Maisonneuve is a physical therapy center, so Kendra is probably referring to the bus stop at that intersection. The hospital they are at is Montreal Northern Hospital (http://www.all-night-laundry.c... ), which apparently doesn't exist. A Montreal hospital that got a wing shut down in 2011 but is otherwise functional should show up when googling its name.[/quote]
+[quote="ForestGardener"]Google maps says there is a hospital at the corner of Atwater and Maisonneuve. Is that where we are?[/quote]
+[quote="ForestGardener"]On second look, the thing at Atwater and Maisonneuve is a physical therapy center, so Kendra is probably referring to the bus stop at that intersection. The hospital they are at is Montreal Northern Hospital (http://www.all-night-laundry.c... ), which apparently doesn't exist. A Montreal hospital that got a wing shut down in 2011 but is otherwise functional should show up when googling its name.[/quote]
 
 You are correct, Montreal Northern is entirely fictional.
 
